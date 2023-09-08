@@ -2,7 +2,7 @@
 
 /**
  * main - from 0 to 9 using int
- * Return : Always 0
+ * Return: Always 0
  */
 int main(void)
 {
